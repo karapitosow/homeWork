@@ -368,3 +368,13 @@ color: #445161;
 .box_pic {
 	cursor: pointer;
 }
+
+/*footer*/
+.fot {
+
+font-size: 12px;
+line-height: 24px;
+letter-spacing: 0.3px;
+color: #445162;
+text-align: center;
+}
